@@ -1,0 +1,5 @@
+﻿  Blockchain.cpp
+C:\Users\NPC\source\repos\TestBlockchain\Blockchain.cpp(14,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  TestBlockchain.cpp
+  Создание кода...
+  TestBlockchain.vcxproj -> C:\Users\NPC\source\repos\TestBlockchain\x64\Debug\TestBlockchain.exe
